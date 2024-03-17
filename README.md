@@ -1,3 +1,6 @@
+
+![git_cover](https://github.com/IamDal/IamDal/assets/115256541/4e190b42-3547-47ad-b04f-aad7afa1ebb0)
+
 - 👋 Hi, I’m @IamDal
 - 👀 I’m interested in science and technology
 - 🌱 I’m currently on a path to becoming a data scientist
